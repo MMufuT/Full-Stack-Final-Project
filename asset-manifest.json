@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%7BREPO_NAME%7D/static/css/main.f855e6bc.css",
+    "main.js": "/%7BREPO_NAME%7D/static/js/main.613e17bc.js",
+    "static/js/787.fd5dc876.chunk.js": "/%7BREPO_NAME%7D/static/js/787.fd5dc876.chunk.js",
+    "static/media/logo.svg": "/%7BREPO_NAME%7D/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/%7BREPO_NAME%7D/index.html",
+    "main.f855e6bc.css.map": "/%7BREPO_NAME%7D/static/css/main.f855e6bc.css.map",
+    "main.613e17bc.js.map": "/%7BREPO_NAME%7D/static/js/main.613e17bc.js.map",
+    "787.fd5dc876.chunk.js.map": "/%7BREPO_NAME%7D/static/js/787.fd5dc876.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.613e17bc.js"
+  ]
+}
